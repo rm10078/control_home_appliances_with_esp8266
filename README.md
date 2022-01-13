@@ -64,5 +64,5 @@ this project please mail me(rm10078@gmail.com).
 
 Hello! i'm Rajib. I'm from india (west bengal). I am bachelor engineering student.
 I already completed my diploma engineering in Electronics & Instrumentation. I love work with microcontroller.
-You can use this project for your working purpose. If you like my project please follow me on youtube.
+You can use this project for your working purpose. If you like my project please follow me on youtube(https://www.youtube.com/channel/UCK6HlyCjssslr956vJsCFPQ).
 Thank you.
