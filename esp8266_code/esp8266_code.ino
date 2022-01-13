@@ -7,8 +7,8 @@
 #include <WiFiClient.h>
 #include <ESP8266WiFi.h> 
 
-const char *ssid="Room_wifi";
-const char *password="18092000";
+const char *ssid="Room_wifi";   //your ssid or wifi name
+const char *password="18092000";  //password 
 boolean r;
 int l0s,l1s,l2s,fan_s;
 
